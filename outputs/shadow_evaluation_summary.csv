@@ -1,0 +1,2 @@
+champion_model,champion_policy,champion_cost,challenger_model,challenger_policy,challenger_cost,promote_challenger,final_decision,rationale
+random_forest_champion,balanced,98400,xgboost_challenger,conservative,213690,False,KEEP CHAMPION / SHADOW ONLY,Challenger does not beat the champion on the defined policy criteria.
